@@ -11,7 +11,7 @@
     "verbatimModuleSyntax": true,
     "isolatedModules": true,
     "jsx": "react-jsx",
-    "module": "esnext",
+    "module": "nodenext",
     "moduleResolution": "nodenext",
     "newLine": "LF",
     "noEmitOnError": true,
