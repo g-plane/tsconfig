@@ -18,6 +18,7 @@
     "noUncheckedIndexedAccess": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
+    "outDir": "${configDir}/dist",
     "pretty": true,
     "resolveJsonModule": true,
     "skipLibCheck": true,
