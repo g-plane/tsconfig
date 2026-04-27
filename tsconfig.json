@@ -26,7 +26,7 @@
     "sourceMap": true,
     "strict": true,
     "stripInternal": true,
-    "target": "es2021",
+    "target": "es2025",
     "useDefineForClassFields": true
   }
 }
