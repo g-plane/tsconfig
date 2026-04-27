@@ -1,7 +1,7 @@
 {
   "name": "@gplane/tsconfig",
   "description": "Shareable TypeScript compiler configuration file.",
-  "version": "6.4.1",
+  "version": "6.4.2",
   "author": "Pig Fang <g-plane@hotmail.com>",
   "repository": "g-plane/tsconfig",
   "main": "tsconfig.json",
