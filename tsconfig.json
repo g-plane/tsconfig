@@ -21,7 +21,7 @@
     "outDir": "${configDir}/dist",
     "pretty": true,
     "resolveJsonModule": true,
-    "rootDir": "${configDir}",
+    "rootDir": "${configDir}/src",
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": true,
